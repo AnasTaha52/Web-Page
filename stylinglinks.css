@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+body
+{
+    font-family:sans-serif;
+    padding: 10%;
+    font-size: 1rem;
+}
+
+ /* a
+{  
+    text-decoration: none;
+    cursor: not-allowed; 
+    cursor: pointer;
+    color: blue; 
+        
+ }  */
+
+a:visited
+{
+    color: purple;
+}
+
+a:hover , a:focus
+{
+    color: darkgreen;
+    background-color: chartreuse;
+}
+
+a:active{
+    color: red;
+}

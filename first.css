@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: rgb(0, 0, 0);
+}
+h1{
+    background-color:rgb(152, 236, 208);
+    text-align: center;
+}
+h2{
+    background-color:rgb(152, 236, 208);
+    text-align: center;
+}
+h4 h5{
+    color: rgb(192, 17, 17);
+}
+.seaGreen{
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 236, 208);
+    font-size: large;
+    border: 2px dotted rgb(0, 0, 0);
+    font-style: italic;
+}
+
+#blue{
+    color: rgb(0, 0, 0);
+    background-color: rgb(60, 106, 235);
+    font-size: large;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.highlight
+{
+    text-transform: uppercase;
+    background-color: yellow;
+}
